@@ -6,4 +6,4 @@
 * Where I've lived
 * My hobbies
 
-![](
+![](https://github.com/enriquee02/Session1and2homework/blob/17cdab3a177dda36866d1a8cef1c1fd8fdbb8de3/IMG_8778.JPG)
